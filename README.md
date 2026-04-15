@@ -16,7 +16,7 @@ In this case, I, the attacker, try to access the administrator panel of the webs
 
 1. Clone this repositroy and start the flaks app.
 ```
-git clone https://github.com/akshatmiglani/Brute-force-for-login-bypass-on-a-local-website.git
+git clone https://github.com/redaoujane/Brute-force-for-login-bypass-on-a-local-website.git
 cd Brute-force-for-login-bypass-on-a-local-website
 pip install flask
 python app.py
